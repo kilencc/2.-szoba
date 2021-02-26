@@ -16,20 +16,30 @@ html {
 body { 
 	font: normal verdana, sans-serif;
 	line-height: 125%;
+<<<<<<< HEAD
 	color: #555753; 
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom left; 
+=======
+	color: darkblue; 
+	background: url(img/nofa.jpg) no-repeat bottom left; 
+>>>>>>> 10ddfa14f7aec39506a55dcddcf2d9cc36d7710c
 	background-size: 10%;
 	margin: 0; 
 	padding: 0;
 	}
 p { 
 	margin-top: 0; 
+<<<<<<< HEAD
 	text-align:justify;
+=======
+	text-align: justify;
+>>>>>>> 10ddfa14f7aec39506a55dcddcf2d9cc36d7710c
 	}
 h3 { 
 	font: italic normal 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
+<<<<<<< HEAD
 	color:darkblue;
 	}
 a:link { 
@@ -45,6 +55,20 @@ a:visited {
 a:hover, a:focus, a:active { 
 	font-weight: bold;
 	text-decoration: underline; 
+=======
+	color: darkblue;
+	}
+a:link { 
+	
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: underline ; 
+	color: #778899;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: none; 
+>>>>>>> 10ddfa14f7aec39506a55dcddcf2d9cc36d7710c
 	color: #778899;
 	}
 abbr {
@@ -52,6 +76,7 @@ abbr {
 	}
 
 
+<<<<<<< HEAD
 /* specific divs */
 .page-wrapper { 
 	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
@@ -66,34 +91,61 @@ abbr {
 	}
 
 header h1 { 
+=======
+
+
+
+.
+
+header h1 { 
+	
+>>>>>>> 10ddfa14f7aec39506a55dcddcf2d9cc36d7710c
 	margin-top: 10px;
 	display: block;
 	width: 219px;
 	height: 87px;
 	float: left;
+<<<<<<< HEAD
+=======
+color: darkblue;
+>>>>>>> 10ddfa14f7aec39506a55dcddcf2d9cc36d7710c
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
 	}
 header h2 { 
+<<<<<<< HEAD
 
 	color:darkblue;
+=======
+	
+>>>>>>> 10ddfa14f7aec39506a55dcddcf2d9cc36d7710c
 	margin-top: 58px; 
 	margin-bottom: 40px; 
 	width: 200px; 
 	height: 18px; 
 	float: right;
+<<<<<<< HEAD
 
+=======
+color: darkblue;
+>>>>>>> 10ddfa14f7aec39506a55dcddcf2d9cc36d7710c
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
 	}
 header {
 	padding-top: 20px;
+<<<<<<< HEAD
 	color: darkblue;
 	height: 87px;
 	background-color: #add8e6;
 	
+=======
+	height: 87px;
+color: darkblue;
+background-color: #add8e6;
+>>>>>>> 10ddfa14f7aec39506a55dcddcf2d9cc36d7710c
 }
 
 .summary {
